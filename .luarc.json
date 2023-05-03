@@ -1,0 +1,8 @@
+{
+    "diagnostics.globals": [
+        "P",
+        "vim",
+        "use",
+        "packer_bootstrap"
+    ]
+}
